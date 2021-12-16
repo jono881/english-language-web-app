@@ -1,0 +1,9 @@
+body {
+    margin: 0;
+}
+#navbar { height: 56px; }
+#mapid { height: calc(100vh - 56px); }
+
+.changeCSV {
+    margin-right: 20px;
+}
